@@ -1,0 +1,119 @@
+{
+  "film": [
+    {
+      "id": 1,
+      "name": "Wonder Woman 1984",
+      "year": "2020",
+      "rating": 7.0,
+      "thumbnail": "wonder-women.png",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Documentary",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "History",
+        "Horror"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Below Zero",
+      "year": "2021",
+      "rating": 6.4,
+      "thumbnail": "below-zero.png",
+      "genre": ["Action", "Adventure", "Animation"]
+    },
+    {
+      "id": 3,
+      "name": "The Little Things",
+      "year": "2021",
+      "rating": 6.3,
+      "thumbnail": "the-little.png",
+      "genre": ["Action", "Adventure", "Animation"]
+    },
+    {
+      "id": 4,
+      "name": "Outside the Wire",
+      "year": "2021",
+      "rating": 6.5,
+      "thumbnail": "outside.png",
+      "genre": ["Action", "Adventure", "Animation", "Comedy", "Crime"]
+    },
+    {
+      "id": 5,
+      "name": "Black Water: Abyss",
+      "year": "2021",
+      "rating": 5.1,
+      "thumbnail": "black-water.png",
+      "genre": ["Crime", "Documentary", "Drama", "Family", "Fantasy"]
+    },
+    {
+      "id": 6,
+      "name": "Breach",
+      "year": "2020",
+      "rating": 4.6,
+      "thumbnail": "breach.png",
+      "genre": [
+        "Documentary",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "History",
+        "Horror"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Soul",
+      "year": "2020",
+      "rating": 8.3,
+      "thumbnail": "soul.png",
+      "genre": ["Family", "Fantasy", "History", "Horror"]
+    },
+    {
+      "id": 8,
+      "name": "Fast & Furious Present",
+      "year": "2019",
+      "rating": 6.9,
+      "thumbnail": "fast.png",
+      "genre": ["Action", "Adventure", "Family", "Fantasy"]
+    },
+    {
+      "id": 9,
+      "name": "The Croods: A New Age",
+      "year": "2020",
+      "rating": 7.6,
+      "thumbnail": "the-croods.png",
+      "genre": ["Adventure", "Animation", "Family"]
+    },
+    {
+      "id": 10,
+      "name": "Vanguard",
+      "year": "2020",
+      "rating": 6.3,
+      "thumbnail": "vanguard.png",
+      "genre": ["Action", "Adventure", "Drama", "Fantasy"]
+    },
+    {
+      "id": 11,
+      "name": "Tenet",
+      "year": "2020",
+      "rating": 7.3,
+      "thumbnail": "tenet.png",
+      "genre": ["Action", "Adventure", "Drama", "Fantasy"]
+    },
+    {
+      "id": 12,
+      "name": "100% Wolf",
+      "year": "2020",
+      "rating": 5.9,
+      "thumbnail": "wolf.png",
+      "genre": ["Adventure", "Animation", "Family"]
+    }
+  ]
+}

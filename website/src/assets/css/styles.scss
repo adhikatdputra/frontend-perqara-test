@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+$font: "Montserrat", sans-serif;
+$red: "#FF0000";
+$maroon: "#E74C3C";
+body {
+  overflow-x: hidden;
+  font-family: $font !important;
+  font-weight: 400;
+  background: #1e2329;
+}
+
+#app {
+  font-family: $font !important;
+  font-size: 14px;
+}
+
+.leading-0 {
+  line-height: 0;
+}
+
+.text-white {
+  color: #e5e5e5 !important;
+}
+
+.text-grey {
+  color: #929292 !important;
+}
